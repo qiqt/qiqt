@@ -87,3 +87,11 @@
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
   </a>
 </div>
+
+<details><summary>Skills</summary>
+  
+</details>
+
+<details><summary>Projects</summary>
+  
+</details>
