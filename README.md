@@ -4,21 +4,26 @@
   <img src="https://github.com/qiqt/qiqt/blob/main/giphy.gif?raw=true"></img>
 </p>
 
-<div style="display:inline-block; text-align:center;">
-  <a>
-    <strong>
-      Where you can find me?
-    </strong>
-  </a> 
-  <a href="mailto:ikrestjancevs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </a>
+<p align="center">
+ <strong>
+   Where you can find me?
+ </strong>
+</p> 
 
-  Reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikrestjancevs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikrestjancevs/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devgiorgio)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/qiqt_)
+<div align="center">
+  <p href="mailto:ikrestjancevs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </p>
+  <p href="https://www.linkedin.com/in/ikrestjancevs/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </p>
+  <p href="https://t.me/devgiorgio">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
+  </p>
+  <p href="https://twitter.com/qiqt_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>
+  </p>
+</div>
 
   Blogging:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@qiqt)
