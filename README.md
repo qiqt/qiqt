@@ -1,5 +1,5 @@
 ### Hi, stranger 👀
 
 <p align="center">
-  ![alt text](https://github.com/qiqt/qiqt/blob/main/giphy.gif?raw=true "Main gif")
+  <img src="https://github.com/qiqt/qiqt/blob/main/giphy.gif?raw=true"></img>
 </p>
