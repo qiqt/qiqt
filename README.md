@@ -11,18 +11,18 @@
 </p> 
 
 <div align="center">
-  <p href="mailto:ikrestjancevs@gmail.com">
+  <a href="mailto:ikrestjancevs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </p>
-  <p href="https://www.linkedin.com/in/ikrestjancevs/">
+  </a>
+  <a href="https://www.linkedin.com/in/ikrestjancevs/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-  </p>
-  <p href="https://t.me/devgiorgio">
+  </a>
+  <a href="https://t.me/devgiorgio">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
-  </p>
-  <p href="https://twitter.com/qiqt_">
+  </a>
+  <a href="https://twitter.com/qiqt_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>
-  </p>
+  </a>
 </div>
 
   Blogging:
