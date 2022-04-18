@@ -77,15 +77,12 @@
 </p> 
 
 <div align="center">
-  WIP portfolio:
   <a href="https://qiqt.space/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
   </a>
   <a href="https://stackoverflow.com/users/15046385/qiqt">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img>
   </a>
-
-  My discord server:
   <a href="https://discord.gg/PKhhba9Q7U">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
   </a>
