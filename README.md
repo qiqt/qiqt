@@ -4,7 +4,7 @@
   <img src="https://github.com/qiqt/qiqt/blob/main/giphy.gif?raw=true"></img>
 </p>
 
-<div align="center" style="display: flex;align-items: center;justify-content: center;">
+<div style="display: flex;align-items: center;justify-content: center;">
   <a>
     <strong>
       Where you can find me?
