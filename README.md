@@ -4,7 +4,7 @@
   <img src="https://github.com/qiqt/qiqt/blob/main/giphy.gif?raw=true"></img>
 </p>
 
-<div style="display: flex;align-items: center;justify-content: center;">
+<div style="position: absolute;">
   <a>
     <strong>
       Where you can find me?
@@ -13,7 +13,6 @@
   <a href="mailto:ikrestjancevs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
-</div>
 
   Reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikrestjancevs@gmail.com)
