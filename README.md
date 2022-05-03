@@ -44,9 +44,6 @@
 </p> 
 
 <div align="center">
-  <a href="https://www.codewars.com/users/qiqt">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></img>
-  </a>
   <a href="https://leetcode.com/qiqt/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
   </a>
